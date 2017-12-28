@@ -4,3 +4,4 @@ Skipping staging
 New changes to the file
 Change to the first file
 I AM SECOND USER MODIFYING
+Modification by user 1
