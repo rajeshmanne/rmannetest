@@ -3,3 +3,4 @@ this is a new file first file
 Skipping staging
 New changes to the file
 Change to the first file
+I AM SECOND USER MODIFYING
