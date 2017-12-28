@@ -2,7 +2,7 @@ This is modification.
 this is a new file first file
 Skipping staging
 New changes to the file
-Change to the first file
+Change to the first file : mannerajesh@gmail.com
 I AM SECOND USER MODIFYING
 Modification by user 1
 Modification by user 1 for fetch
